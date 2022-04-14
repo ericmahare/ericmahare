@@ -99,11 +99,11 @@
  
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/eric-mahare-358944183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgGDT057ISOOh4aV%2FI3YeDQ%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
 
   <a href="https://twitter.com/erikmahare">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Badge"/>
   </a>
 </div>
 
