@@ -15,7 +15,7 @@
 
 <div id="header" align="center">
     <a href="yhttps://github.com/ericmahare/">
-  <img align="center" src="https://github.com/ericmahare/ericmahare/blob/main/profile-animation-one.gif" width="450"/>
+  <img src="https://github.com/ericmahare/ericmahare/blob/main/profile-animation-one.gif" width="1100" height="auto"/>
        </a>
 </div>
 
