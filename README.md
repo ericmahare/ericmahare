@@ -10,12 +10,11 @@
 ![](https://komarev.com/ghpvc/?username=ericmahare)
     <img  src="https://img.shields.io/github/followers/ericmahare?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/ericmahare?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
-    
   </div>
 
 <div id="header" align="center">
     <a href="yhttps://github.com/ericmahare/">
-  <img src="https://github.com/ericmahare/ericmahare/blob/main/profile-animation-one.gif" width="1100" height="auto"/>
+ <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="480"/>
        </a>
 </div>
 
